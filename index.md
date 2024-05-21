@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+My name is Brad Barrish and this is where I keep documentation. More [about me](/about/).

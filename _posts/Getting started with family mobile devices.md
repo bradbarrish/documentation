@@ -41,4 +41,4 @@ If you want to create an account for an adult, [follow these instructions](https
 
 Once you have Family Link set up, you can manage your child’s account and 
 
-Google published [a nice digital wellbeing family guide](https://services.google.com/fh/files/misc/digitalwellbeingfamilyguide.pdf) (PDF link) that’s worth checking out no matter what type of devices your family use.  
+Google published [a nice digital wellbeing family guide](https://services.google.com/fh/files/misc/digitalwellbeingfamilyguide.pdf) (PDF link) that’s worth checking out no matter what type of devices your family use.

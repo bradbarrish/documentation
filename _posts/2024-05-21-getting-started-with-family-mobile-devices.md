@@ -39,6 +39,6 @@ The main advice for iOS devices is largely the same for Android devices. Android
 
 If you want to create an account for an adult, [follow these instructions](https://support.google.com/accounts/answer/27441?hl=en/). If you want to create an account for a child, [follow these instructions](https://support.google.com/families/answer/7103338?hl=en). Once everyone has their own Google account, you will want to download the [Google Family Link app](https://families.google/familylink/), which is available for Android and iOS. While you can control Android devices using the iOS app, I recommend households use either iOS devices or Android devices to keep things simple.
 
-Once you have Family Link set up, you can manage your child’s account and 
+Once you have Family Link set up, you can manage your child’s account and begin [tweaking parental controls](https://safety.google/families/parental-supervision/). 
 
 Google published [a nice digital wellbeing family guide](https://services.google.com/fh/files/misc/digitalwellbeingfamilyguide.pdf) (PDF link) that’s worth checking out no matter what type of devices your family use.

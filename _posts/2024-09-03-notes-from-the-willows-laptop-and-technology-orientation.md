@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-09-03 Notes from The Willows Laptop and Technology Orientation
+title: Notes from The Willows Laptop and Technology Orientation
 date: 2024-09-03
 author: Brad Barrish
 description: A summary of the presentation for Willows Middle School parents about laptops and technology.

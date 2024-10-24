@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using ChatGPT As A Study Partner For Kids
+title: Using ChatGPT as a study partner for kids
 date: 2024-10-06
 author: Brad Barrish
 description: A demostration of how I'm currently using ChatGPT to help my kids study for school quizes

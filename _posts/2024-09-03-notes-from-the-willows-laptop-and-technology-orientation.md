@@ -3,7 +3,7 @@ layout: post
 title: Notes from the school laptop and technology orientation
 date: 2024-09-03
 author: Brad Barrish
-description: A summary of the presentation for Willows Middle School parents about laptops and technology.
+description: A summary of the presentation for school parents about laptops and technology.
 ogimage: opengraphimage.jpeg
 ---
 

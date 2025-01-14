@@ -6,6 +6,10 @@ author: Brad Barrish
 description: Aggregated resources to help people impacting by the recent wildfires in Los Angeles
 ogimage: opengraphimage.jpeg
 ---
+Last updated: 2025-01-14 @ 14:39
+
+I have found it frustratingly difficult to find high-quality, trustworthy information as things were unfolding with the fires so I am assembling a bunch of resources that I will be updating regualrly. Feel free to direct people here or copy the info and publish it elsewhere, in part or in its entirety.
+
 ## Los Angeles County Resources
 - [LAFD News](https://lafd.org/news)
 - [LAFD Palisades Fire Info](https://lafd.org/news/palisades-fire-0)

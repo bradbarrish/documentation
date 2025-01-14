@@ -3,5 +3,26 @@
   {%- include head.html -%}
   <body>
     {{ content }}
+    <footer class="site-footer">
+        <div class="wrapper">
+            <div class="footer-content">
+                © <span id="year"></span> {{ site.title }}
+                <br>
+                Last updated: <span id="timestamp"></span>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Update year
+        document.getElementById('year').textContent = new Date().getFullYear();
+        
+        // Update timestamp
+        function updateTimestamp() {
+            document.getElementById('timestamp').textContent = new Date().toLocaleString();
+        }
+        updateTimestamp();
+        setInterval(updateTimestamp, 1000);
+    </script>
   </body>
 </html>

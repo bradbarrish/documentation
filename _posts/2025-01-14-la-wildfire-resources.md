@@ -32,7 +32,7 @@ I have found it frustratingly difficult to find high-quality, trustworthy inform
 - [Mailing list for donated goods available at Kalon](https://kalon.myflodesk.com/wildfire-donated-goods)
 
 ## Volunteers Needed
-- [SPACES Donation Center | Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
+- [SPACES Donation Center and Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
 - [Venice Helping Hub](https://www.venicehelpinghub.com/)
 
 ## Maps

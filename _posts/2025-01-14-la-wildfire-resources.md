@@ -6,7 +6,7 @@ author: Brad Barrish
 description: Aggregated resources to help people impacting by the recent wildfires in Los Angeles
 ogimage: opengraphimage.jpeg
 ---
-Last updated: 2025-01-14 @ 16:08
+Last updated: 2025-01-15 @ 16:08
 
 I have found it frustratingly difficult to find high-quality, trustworthy information as things were unfolding with the fires so I am assembling a bunch of resources that I will be updating regualrly. Feel free to direct people here or copy the info and publish it elsewhere, in part or in its entirety.
 
@@ -30,6 +30,9 @@ I have found it frustratingly difficult to find high-quality, trustworthy inform
 - [List of displaced Filipino families with links to GoFundMe pages](https://docs.google.com/spreadsheets/d/17hqZniTXSkz2xCXg06dLL3bV7NCnp-JROBPESwnjsgw/edit?gid=0#gid=0) (Google Sheets)
 - [Venice Helping Hub](https://www.venicehelpinghub.com/) has resources for evacuees and people wanting to volunteer
 - [Mailing list for donated goods available at Kalon](https://kalon.myflodesk.com/wildfire-donated-goods)
+- [Brands providing products to families impacted by the fires](https://docs.google.com/spreadsheets/u/0/d/1L0dQpfj3c86mXRjADRrLshUCZrFzA3vcM_TfYxITjmc/htmlview) (Google Sheets)
+- [Resources for helping children impacted by the fires](https://docs.google.com/document/d/1-9tNJfmn8icCjx8lxkpY9Q_inNTGF21cv-xIDlVRYoI/edit?tab=t.0) (Google Docs)
+- [Therapists offering pro bono therapy](https://docs.google.com/spreadsheets/u/1/d/1uAMVz8TQMzShQeuEA6kmOP0jyRN7qe1Iiqb6JOLTPqg/htmlview) (Google Sheets)
 
 ## Volunteers Needed
 - [SPACES Donation Center and Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
@@ -53,6 +56,8 @@ I have found it frustratingly difficult to find high-quality, trustworthy inform
 - [Caution: Fire Ash in Home Gardens](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CDPH%20Document%20Library/FireAshHomeGardens.pdf) (PDF)
 - [United Policyholders Claim Guidance Library](https://uphelp.org/claim-guidance-publications/) - UP is a non-profit 501(c) (3) organization whose mission is to be a trustworthy and useful information resource and an effective voice for consumers of all types of insurance in all 50 states.
 - [United Policyholders 2025 California Wildfires Insurance Claim and Recovery Help](https://uphelp.org/disaster-recovery-help/2025cawildfires/) This page includes resources for the January 2025 Palisades Fire, Eaton Fire, and Hurst Fire in Los Angeles County.
+- [Legal Aid Disaster Resource Center has a California Wildfires and Straight-line Winds](https://www.ladrc.org/disasters/california-wildfires-and-straight-line-winds/) resource page with helpful information and guidance on applying for assistance.
+- [Coalition for Clean Air](https://www.ccair.org/) is a great general resource that also has helpful [wildfire smoke and safety resources](https://www.ccair.org/wildfire-smoke-and-safety-resources/). 
 
 ## Fact Checking
 - [Fact Check: Did Los Angeles Cut Fire Department Funding by $17.6M?](https://www.newsweek.com/fact-check-did-los-angeles-cut-fire-department-funding-2011568)

@@ -6,7 +6,7 @@ author: Brad Barrish
 description: Aggregated resources to help people impacting by the recent wildfires in Los Angeles
 ogimage: opengraphimage.jpeg
 ---
-Last updated: 2025-01-14 @ 14:39
+Last updated: 2025-01-14 @ 16:08
 
 I have found it frustratingly difficult to find high-quality, trustworthy information as things were unfolding with the fires so I am assembling a bunch of resources that I will be updating regualrly. Feel free to direct people here or copy the info and publish it elsewhere, in part or in its entirety.
 
@@ -34,6 +34,7 @@ I have found it frustratingly difficult to find high-quality, trustworthy inform
 ## Volunteers Needed
 - [SPACES Donation Center and Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
 - [Venice Helping Hub](https://www.venicehelpinghub.com/)
+- [Young and Healthy and The Shops at Mission Village](https://www.signupgenius.com/go/10C0544AFA822A0F85-54348535-donation#/) is looking for volunteers to help with donations the weekend of January 18th
 
 ## Maps
 - [South Coast AQMD](https://www.aqmd.gov/)

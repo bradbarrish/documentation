@@ -32,7 +32,7 @@ I have found it frustratingly difficult to find high-quality, trustworthy inform
 - [Mailing list for donated goods available at Kalon](https://kalon.myflodesk.com/wildfire-donated-goods)
 
 ## Volunteers Needed
-- [SPACE(S) Donation Center | Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
+- [SPACES Donation Center | Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
 - [Venice Helping Hub](https://www.venicehelpinghub.com/)
 
 ## Maps
@@ -43,7 +43,7 @@ I have found it frustratingly difficult to find high-quality, trustworthy inform
 - [FIRMS (Fire Information for Resource Management Systems) US/Canada](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-118.04,34.20,12.79z) distributes Near Real-Time (NRT) active fire data from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP, NOAA 20 and NOAA 21 (formally known as JPSS-1 and JPSS-2). Globally these data are available within 3 hours of satellite observation, but for the US and Canada active fire detections are available in real-time.
 
 ## Apps
-- [Watch Duty] - [iOS](https://apps.apple.com/us/app/watch-duty-wildfire/id1574452924) | [Android](https://play.google.com/store/apps/details?id=org.watchduty.app)
+- [Watch Duty](https://watchduty.org) - [iOS](https://apps.apple.com/us/app/watch-duty-wildfire/id1574452924) | [Android](https://play.google.com/store/apps/details?id=org.watchduty.app)
 - Scanner Radio - [iOS](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) | [Android](https://play.google.com/store/apps/details?id=com.scannerradio&hl=en_US)
 
 ## Advice & Guidance

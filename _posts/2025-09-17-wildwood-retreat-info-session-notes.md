@@ -7,6 +7,7 @@ description: Notes from a Zoom info session with Wildwood staff
 ogimage: opengraphimage.jpeg
 ---
 Wednesday, September 17, 2025
+
 ## Program Overview
 - Positive Adventures running Wildwood Middle School retreat (3rd year partnership)
 - October 7-9 at Camp Lawrence Daily (Salvation Army camp near Malibu Creek State Park)
@@ -16,6 +17,7 @@ Wednesday, September 17, 2025
     - 7th grade: Climbing wall
     - 8th grade: Zipline and high ropes course
 - Evening programs include astronomy night and traditional campfire with s’mores
+
 ## Logistics & Accommodation
 - Departure Tuesday 9AM, return Thursday ~2:30PM (normal school day pickup available until 4PM)
 - Residential camp with bunk bed rooms, private bathrooms, dining hall
@@ -24,6 +26,7 @@ Wednesday, September 17, 2025
 - Two-bag system required:
     - Large duffel/rolling suitcase for all belongings
     - Day backpack for hiking/activities (water bottles, headlamp, jacket)
+
 ## Forms & Requirements
 - All paperwork due yesterday (September 16) but late submissions accepted
 - Required forms via Inform K12 platform:
@@ -36,6 +39,7 @@ Wednesday, September 17, 2025
     - Transportation form
     - Medication form and guide for campus team
 - Medication drop-off station at departure (by Pam’s office with Mary Abzug?)
+
 ## Key Policies & Practical Info
 - No cell phones allowed during retreat
 - Closed-toe shoes required (no sandals during activities)

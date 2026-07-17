@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to unfreeze your credit
+title: How to freeze your credit
 date: 2026-07-16
 author: Brad Barrish
 description:

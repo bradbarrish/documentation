@@ -1,16 +1,45 @@
-# clio
+# Brad Barrish's Documentation
 
-![screenshot of Clio theme](screenshot.png)
+This is the source for `https://docs.bradbarrish.com/`. It is a Jekyll site hosted with GitHub Pages.
 
-## What is this?
-Clio is a template and theme based on [danromero.org](https://danromero.org). This repository is designed to be hosted on [GitHub Pages](https://pages.github.com) with [Jekyll](https://jekyllrb.com). You can read more about the [GitHub Pages + Jekyll integration](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll). Out-of-the-box the template supports:
+Current GitHub Pages settings:
+
+- Repository: `bradbarrish/documentation`
+- Default branch: `master`
+- Pages source: `master` branch, repository root
+- Custom domain: `docs.bradbarrish.com`
+- HTTPS: enforced
+
+## Publishing from Obsidian
+
+The repo includes an Obsidian Templater template at `Templates/bb-docs Post.md`.
+
+See [docs/obsidian-publishing.md](docs/obsidian-publishing.md) for setup and day-to-day publishing notes. The short version:
+
+1. Run **Templater: Create new note from template** and choose **bb-docs Post**.
+2. Write the post in plain Markdown.
+3. Run **Obsidian Git: Commit-and-sync**.
+4. GitHub Pages builds and publishes the site from the `master` branch.
+
+## Local development
+
+```sh
+export PATH="/opt/homebrew/opt/ruby@3.4/bin:$PATH"
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+```
+
+## Site structure
+
+This site uses a lightly edited version of Clio, a template and theme based on [danromero.org](https://danromero.org). The template supports:
 
 1. A homepage that displays a brief introduction and the most recent blog posts in reverse chronological order.
 2. An about page located at `/about/`.
 3. A sample blog post.
 4. An RSS feed for all of the blog posts.
 
-## How to set up
+## Original template setup notes
 
 1. Clone the repository. Delete `screenshot.png` from the main folder.
 2. Edit `_config.yml`. Replace the sample text for title, email, description, url, and twitter.

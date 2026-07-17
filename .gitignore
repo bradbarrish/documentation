@@ -1,5 +1,7 @@
 _drafts/
 _site/
+.bundle/
+vendor/bundle/
 .DS_Store
 *.plist
 *.swp

@@ -16,9 +16,9 @@ I highly recommend looking at all of the credit accounts in each of the three bu
 
 You can freeze your credit for free on all three. Once you have created your account, here are the links to freeze your credit for each:
 
-[Experian](https://www.experian.com/help/credit-freeze/) 
-[Equifax](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
-[TransUnion](https://www.transunion.com/credit-freeze)
+- [Experian](https://www.experian.com/help/credit-freeze/)
+- [Equifax](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
+- [TransUnion](https://www.transunion.com/credit-freeze)
 
 Freezing your credit will have no impact on your credit score, your ability to use your credit cards or anything like that. It will simply prevent anyone from opening a new account in your name. If you are applying for a credit card, mortgage, auto loan, personal loan, or sometimes an apartment rental or new utility account—anything like that requires a hard pull or hard inquiry and you will need to unfreeze or temporarily thaw your credit. Each reporting agency allows you to do this easily. Just use the same links above. 
 

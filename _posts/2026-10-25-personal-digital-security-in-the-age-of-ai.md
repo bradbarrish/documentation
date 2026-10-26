@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Digital Security In The Age Of AI
+title: Personal digital security in the age of AI
 date: 2026-10-25
 author: Brad Barrish
 description: Advice on how to protect your personal data and sensitive information in the age of AI
